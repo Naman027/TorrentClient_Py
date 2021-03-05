@@ -60,7 +60,7 @@ Python
 ### Installation
 You can run the following command to install the dependencies using pip
 
-pip3 install -r requirements.txt<br>
+```pip3 install -r requirements.txt```<br>
 **Note**:This is not applicable on Windows
 
 
