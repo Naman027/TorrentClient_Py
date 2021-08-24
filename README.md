@@ -93,15 +93,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/Torrent-Client`)
 5. Open a Pull Request
 
-
-
-<!-- CONTACT -->
-## Contact
-Name : Adriraj Chaudhuri, Naman Goyal<br>
-Email : adriraj@itg.ac.in, naman18@iitg.ac.in<br>
-Github Contributor: https://github.com/NamanGoyal07
-
-
 <!-- REFERENCES -->
 ## References
 1.http://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html<br>
